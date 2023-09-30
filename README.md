@@ -1,3 +1,3 @@
 # HTML
-this repo contains html codes  
+This repo contains beginner html codes  
 Author - Abhay Kathania
